@@ -1,0 +1,8 @@
+BOT_TOKEN: "7795096794:AAG81dEq65W1l2zETvaIGXma6kR-FVNlVNE"  # токен бота
+REF_URL: "https://1wzyuh.com/v3/2158/1win-mines?p=pq2x"  # реферальная ссылка
+CHANNEL_URL: "https://t.me/+LnItKVV-kT82MDVi" # ссылка канала проверка подписки
+CHANNEL_ID: "-1002564568691" # айди канала для проверки подписки
+VERIF_CHANNEL_ID: "-1002865038436" # айди чата для верификации(обсуждение канала с постбеками)
+SUPP: "https://t.me/ml_help" # поддержка
+ADMIN_ID: 485981875 # Ваш айди без скобочек
+PROMO: "MLBOT500" # промокод

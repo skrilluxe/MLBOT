@@ -1,0 +1,570 @@
+ru:
+  subscribe:          "➕Подписаться"
+  check:              "Далее"
+  register:           "📱Регистрация"
+  instruction:        "📚Инструкция"
+  get_signal:         "⚜️ПОЛУЧИТЬ СИГНАЛ⚜️"
+  register_action:    "📱🔸 Зарегистрироваться"
+  make_deposit_btn:   "💸 Внести депозит"
+  welcome:            "🇷🇺 <b>Чтобы получить полный доступ к нашему эксклюзивному контенту и продолжить использование бота, пожалуйста подпишитесь на наш канал.</b>"
+  welcome_message:    "<b>\u200b</b>"        # пустая строка ‑ меню рисуем картинкой
+  register_info: |
+    🔥<b>Чтобы получить максимум от использования этого бота, необходимо следовать следующим шагам:</b>
+
+    1. <b>Зарегистрируйте новый аккаунт!</b>
+       [Если у вас уже есть аккаунт, пожалуйста, выйдите и зарегистрируйте новый]
+
+    2. <b>Используйте промокод</b> 👉🏻{promo}👈🏻 <b>при регистрации нового аккаунта</b>.
+       [Это важно, потому что наш ИИ работает только с новыми аккаунтами]
+
+    3. <b>После регистрации вы автоматически получите уведомление о успешной регистрации.</b>
+
+    ❗️Если вы не выполните эти шаги, бот не сможет добавить ваш аккаунт в базу данных.
+
+    🤝🏻 <b>Спасибо за понимание!</b>
+  deposit_info: |
+    <b>Поздравляем с успешной регистрацией!</b> 🥳
+
+    <b>🌐 Шаг 2</b> – Внеси первый депозит.
+
+    ✦ Чем больше депозит, тем больше <b>УРОВЕНЬ</b> в боте, а чем больше уровень в боте, тем больше количество сигналов с высокой вероятностью проходимости сигнала ты будешь получать.
+
+    ✦ После пополнения первого депозита, Вам автоматически придет <b>уведомление</b> в бота.
+  instruction_info: |
+    <b>🤖Бот основан и обучен на кластерной нейронной сети OpenAI! 
+    ⚜️Для обучения бота было сыграно 🎰10,000+ игр.
+    
+    В настоящее время пользователи бота успешно генерируют 15-25% от своего 💸 капитала ежедневно!</b>
+    
+    Бот все еще проходит проверки и исправления! Точность бота составляет 92%!
+    Чтобы достичь максимальной прибыли, следуйте этой инструкции:
+    
+    🟢 1. <b>Зарегистрируйтесь в букмекерской конторе </b> <a href='{ref_url}'>1WIN</a> 
+    [Если не открывается, воспользуйтесь VPN (Швеция). В Play Market/App Store есть много бесплатных сервисов, например: Vpnify, Planet VPN, Hotspot VPN и т.д.!]
+          ❗️<b>Без регистрации и промокода доступ к сигналам не будет открыт</b>❗️
+    
+    🟢 2. Пополните баланс своего счета.
+    🟢 3. Перейдите в раздел игр 1win и выберите игру.
+    🟢 4. Установите количество ловушек на три. Это важно!
+    🟢 5. Запросите сигнал у бота и ставьте ставки в соответствии с сигналами от бота.
+    🟢 6. В случае неудачного сигнала рекомендуем удвоить (x²) вашу ставку, чтобы полностью покрыть убыток с помощью следующего сигнала.
+  back:               "🔙Вернуться в главное меню"
+  choose_lang:        "🌍Выбрать язык"
+  make_deposit:       "💸Внести депозит"
+  success_deposit:    "✅ Депозит получен! Доступ к сигналам открыт."
+  enter_new_ref:      "Отправьте новую ссылку напрямую на 1win (без сократителей)"
+  ref_changed:        "✅ Ссылка успешно изменена"
+
+en:
+  subscribe: "➕Subscribe"
+  check: "Next"
+  register: "📱Register"
+  instruction: "📚Instructions"
+  get_signal: "⚜️GET SIGNAL⚜️"
+  register_action: "📱🔸 Register Now"
+  make_deposit_btn: "💸 Make a Deposit"
+  welcome: "🇬🇧 <b>To gain full access to our exclusive content and continue using the bot, please subscribe to our channel.</b>"
+  welcome_message: "<b></b>"
+  register_info: |
+    🔥<b>To maximize your experience with this bot, please follow these steps:</b>
+
+    1. <b>Create a new account!</b>
+       [If you already have an account, please log out and register a new one]
+
+    2. <b>Use the promo code</b> 👉🏻{promo}👈🏻 <b>when registering the new account</b>.
+       [This is important because our AI works only with new accounts]
+
+    3. <b>After registration, you will automatically receive a notification of successful registration.</b>
+
+    ❗️If you do not complete these steps, the bot will not be able to add your account to the database.
+
+    🤝🏻 <b>Thank you for your understanding!</b>
+  deposit_info: |
+    <b>Congratulations on your successful registration!</b> 🥳
+
+    <b>🌐 Step 2</b> – Make your first deposit.
+
+    ✦ The larger the deposit, the higher the <b>LEVEL</b> in the bot, and the higher the level, the more high-probability signals you will receive.
+
+    ✦ After making your first deposit, you will automatically receive a <b>notification</b> in the bot.
+  instruction_info: |
+    <b>🤖The bot is based and trained on OpenAI's neural network cluster!
+    ⚜️Over 🎰10,000 games were played to train the bot.
+
+    Currently, bot users successfully generate 15-25% of their 💸 capital daily!</b>
+
+    The bot is still undergoing checks and fixes! The bot's accuracy is 92%!
+    To achieve maximum profit, follow these instructions:
+
+    🟢 1. <b>Register at the bookmaker </b> <a href='{ref_url}'>1WIN</a>
+    [If it doesn't open, use a VPN (Sweden). There are many free services in the Play Market/App Store, such as: Vpnify, Planet VPN, Hotspot VPN, etc.!]
+          ❗️<b>Without registration and promo code, access to signals will not be opened</b>❗️
+
+    🟢 2. Top up your account balance.
+    🟢 3. Go to the 1win games section and select a game.
+    🟢 4. Set the number of traps to three. This is important!
+    🟢 5. Request a signal from the bot and place bets according to the bot's signals.
+    🟢 6. In case of an unsuccessful signal, we recommend doubling (x²) your bet to fully cover the loss with the next signal.
+  back: "🔙Back to Main Menu"
+  choose_lang: "🌍Choose Language"
+  make_deposit: "💸Make a Deposit"
+  success_deposit: "✅ Deposit received! Access to signals is open."
+  enter_new_ref: "Send a new link"
+  ref_changed: "Link changed"
+
+
+hi:
+  subscribe: "➕सदस्यता लें"
+  check: "आगे बढ़ें"
+  register: "📱पंजीकरण"
+  instruction: "📚निर्देश"
+  get_signal: "⚜️सिग्नल प्राप्त करें⚜️"
+  register_action: "📱🔸 अभी पंजीकरण करें"
+  make_deposit_btn: "💸 जमा करें"
+  welcome: "🇮🇳 <b>हमारी एक्सक्लूसिव सामग्री तक पूर्ण पहुंच प्राप्त करने और बॉट का उपयोग जारी रखने के लिए कृपया हमारे चैनल की सदस्यता लें।</b>"
+  welcome_message: "<b> </b>"
+  register_info: |
+    🔥<b>इस बॉट का अधिकतम लाभ उठाने के लिए, कृपया निम्न चरणों का पालन करें:</b>
+
+    1. <b>एक नया खाता पंजीकृत करें!</b>
+       [यदि आपके पास पहले से खाता है, तो कृपया लॉग आउट करें और एक नया बनाएं]
+
+    2. <b>पंजीकरण करते समय प्रोमो कोड दर्ज करें</b> 👉🏻{promo}👈🏻।
+       [यह महत्वपूर्ण है क्योंकि हमारा AI केवल नए खातों के साथ काम करता है]
+
+    3. <b>पंजीकरण के बाद, आपको सफल पंजीकरण की सूचना स्वतः प्राप्त होगी।</b>
+
+    ❗️यदि आप इन चरणों का पालन नहीं करते हैं, तो बॉट आपके खाते को डेटाबेस में नहीं जोड़ पाएगा।
+
+    🤝🏻 <b>समझने के लिए धन्यवाद!</b>
+  deposit_info: |
+    <b>पंजीकरण की सफलता पर बधाई!</b> 🥳
+
+    <b>🌐 चरण 2</b> – अपनी पहली जमा राशि करें।
+
+    ✦ जितनी अधिक राशि जमा करेंगे, बॉट में आपका <b>LEVEL</b> उतना ही ऊँचा होगा। उच्च स्तर का अर्थ है उच्च गुणवत्ता वाले सिग्नल।
+
+    ✦ जमा करने के बाद आपको बॉट में एक <b>सूचना</b> प्राप्त होगी।
+  instruction_info: |
+    <b>🤖बॉट OpenAI न्यूरल नेटवर्क क्लस्टर पर आधारित है!
+    ⚜️बॉट को प्रशिक्षित करने के लिए 🎰10,000+ गेम खेले गए।
+
+    अभी, उपयोगकर्ता प्रतिदिन अपने 💸 पूंजी का 15-25% उत्पन्न कर रहे हैं!</b>
+
+    बॉट अभी भी परीक्षण में है! सटीकता 92% है!
+    अधिकतम लाभ के लिए इस निर्देश का पालन करें:
+
+    🟢 1. <b>1WIN सट्टेबाज़ी साइट पर पंजीकरण करें </b> <a href='{ref_url}'>1WIN</a>
+    [यदि नहीं खुल रहा है, तो स्वीडन VPN का उपयोग करें। Vpnify, Planet VPN, Hotspot VPN आदि ऐप्स मुफ़्त हैं]
+          ❗️<b>पंजीकरण और प्रोमो कोड के बिना सिग्नल्स प्राप्त नहीं होंगे</b>❗️
+
+    🟢 2. अपने खाते में बैलेंस जोड़ें।
+    🟢 3. 1win गेम सेक्शन में जाएं और एक गेम चुनें।
+    🟢 4. ट्रैप्स की संख्या तीन सेट करें – यह महत्वपूर्ण है!
+    🟢 5. बॉट से सिग्नल प्राप्त करें और निर्देश अनुसार दांव लगाएं।
+    🟢 6. यदि सिग्नल विफल हो, तो अगली बार दांव दोगुना (x²) करें ताकि हानि की भरपाई हो सके।
+  back: "🔙मुख्य मेनू पर लौटें"
+  choose_lang: "🌍भाषा चुनें"
+  make_deposit: "💸जमा करें"
+  success_deposit: "✅ जमा प्राप्त हुआ! सिग्नल्स के लिए पहुंच खुल गई है।"
+  enter_new_ref: "नया लिंक भेजें"
+  ref_changed: "लिंक बदल दिया गया है"
+
+es:
+  subscribe: "➕Suscribirse"
+  check: "Continuar"
+  register: "📱Registro"
+  instruction: "📚Instrucciones"
+  get_signal: "⚜️OBTENER SEÑAL⚜️"
+  register_action: "📱🔸 Regístrate ahora"
+  make_deposit_btn: "💸 Hacer un depósito"
+  welcome: "🇪🇸 <b>Para acceder al contenido exclusivo y seguir usando el bot, suscríbete a nuestro canal.</b>"
+  welcome_message: "<b> </b>"
+  register_info: |
+    🔥<b>Para aprovechar al máximo este bot, sigue estos pasos:</b>
+
+    1. <b>¡Registra una cuenta nueva!</b>
+       [Si ya tienes una cuenta, cierra sesión y crea una nueva]
+
+    2. <b>Usa el código promocional</b> 👉🏻{promo}👈🏻 <b>al registrarte</b>.
+       [Es importante porque nuestro IA solo funciona con cuentas nuevas]
+
+    3. <b>Después del registro, recibirás una notificación automática de éxito.</b>
+
+    ❗️Si no sigues estos pasos, el bot no podrá añadir tu cuenta a la base de datos.
+
+    🤝🏻 <b>¡Gracias por tu comprensión!</b>
+  deposit_info: |
+    <b>¡Felicidades por registrarte exitosamente!</b> 🥳
+
+    <b>🌐 Paso 2</b> – Realiza tu primer depósito.
+
+    ✦ Cuanto mayor el depósito, mayor tu <b>NIVEL</b> dentro del bot y más señales premium recibirás.
+
+    ✦ Tras depositar, recibirás automáticamente una <b>notificación</b> en el bot.
+  instruction_info: |
+    <b>🤖El bot está basado en la red neuronal de OpenAI!
+    ⚜️Más de 🎰10,000 partidas fueron simuladas para su entrenamiento.
+
+    Actualmente, los usuarios ganan entre 15–25% de su 💸 capital cada día.</b>
+
+    El bot aún está en fase de prueba. ¡Precisión: 92%!
+    Para obtener el máximo beneficio, sigue estas instrucciones:
+
+    🟢 1. <b>Regístrate en la casa de apuestas </b> <a href='{ref_url}'>1WIN</a>
+    [Si no carga, utiliza un VPN (Suecia). Usa apps como Vpnify, Planet VPN, Hotspot VPN...]
+          ❗️<b>Sin registro y código, no tendrás acceso a las señales</b>❗️
+
+    🟢 2. Recarga tu cuenta.
+    🟢 3. Entra en la sección de juegos 1win y elige uno.
+    🟢 4. Establece 3 trampas. ¡Es obligatorio!
+    🟢 5. Pide señal al bot y apuesta según las instrucciones.
+    🟢 6. Si pierdes, dobla tu apuesta (x²) para recuperar en la siguiente.
+  back: "🔙Volver al menú principal"
+  choose_lang: "🌍Elegir idioma"
+  make_deposit: "💸Hacer un depósito"
+  success_deposit: "✅ ¡Depósito recibido! El acceso a las señales está abierto."
+  enter_new_ref: "Envía un nuevo enlace"
+  ref_changed: "Enlace actualizado"
+
+az:
+  subscribe: "➕Abunə ol"
+  check: "Davam et"
+  register: "📱Qeydiyyat"
+  instruction: "📚Təlimat"
+  get_signal: "⚜️SİQNAL AL⚜️"
+  register_action: "📱🔸 İndi qeydiyyatdan keç"
+  make_deposit_btn: "💸 Depozit et"
+  welcome: "🇦🇿 <b>Eksklüziv məzmuna tam giriş əldə etmək və botdan istifadəni davam etdirmək üçün kanalımıza abunə olun.</b>"
+  welcome_message: "<b> </b>"
+  register_info: |
+    🔥<b>Botdan maksimum faydalanmaq üçün bu addımları izləyin:</b>
+
+    1. <b>Yeni hesab yaradın!</b>
+       [Əgər hesabınız varsa, çıxış edin və yenidən qeydiyyatdan keçin]
+
+    2. <b>Qeydiyyat zamanı promo koddan istifadə edin</b> 👉🏻{promo}👈🏻.
+       [Bu vacibdir, çünki botumuz yalnız yeni istifadəçilərlə işləyir]
+
+    3. <b>Qeydiyyatdan sonra uğurlu bildiriş avtomatik gələcək.</b>
+
+    ❗️Əgər bu addımları etməsəniz, hesabınız əlavə olunmayacaq.
+
+    🤝🏻 <b>Anlayış üçün təşəkkürlər!</b>
+  deposit_info: |
+    <b>Uğurlu qeydiyyat münasibətilə təbrik edirik!</b> 🥳
+
+    <b>🌐 Addım 2</b> – İlk depozitinizi edin.
+
+    ✦ Yüksək depozit = yüksək <b>SƏVİYYƏ</b>, daha güclü siqnallar.
+
+    ✦ Depozit etdikdən sonra avtomatik <b>bildiriş</b> alacaqsınız.
+  instruction_info: |
+    <b>🤖Bot OpenAI-nin neyron şəbəkəsində əsaslanır!
+    ⚜️🎰10,000+ oyun təhlil edilib.
+
+    İstifadəçilər gündəlik 💸 15–25% qazanc əldə edirlər!</b>
+
+    Bot sınaq mərhələsindədir. Dəqiqlik: 92%.
+    Maksimum qazanc üçün bu təlimatları izləyin:
+
+    🟢 1. <b>1WIN saytında qeydiyyatdan keçin </b> <a href='{ref_url}'>1WIN</a>
+    [Sayt açılmırsa, VPN (İsveç) istifadə edin. Vpnify, Planet VPN və s. mövcuddur.]
+          ❗️<b>Qeydiyyat və promo kod olmadan siqnallar açılmayacaq</b>❗️
+
+    🟢 2. Hesabınızı artırın.
+    🟢 3. Oyunlar bölməsinə keçin və oyun seçin.
+    🟢 4. 3 tələ seçin. Vacibdir!
+    🟢 5. Botdan siqnal alın və təlimatlara uyğun oynayın.
+    🟢 6. Məğlub olsanız, növbəti mərclə zərəri örtmək üçün məbləği 2x edin.
+  back: "🔙Əsas menyuya qayıt"
+  choose_lang: "🌍Dil seçin"
+  make_deposit: "💸Depozit et"
+  success_deposit: "✅ Depozit uğurla daxil oldu! Siqnallar aktivdir."
+  enter_new_ref: "Yeni link göndərin"
+  ref_changed: "Link dəyişdirildi"
+
+pt:
+  subscribe: "➕Inscreva-se"
+  check: "Continuar"
+  register: "📱Registro"
+  instruction: "📚Instruções"
+  get_signal: "⚜️OBTER SINAL⚜️"
+  register_action: "📱🔸 Registrar-se"
+  make_deposit_btn: "💸 Fazer depósito"
+  welcome: "🇧🇷 <b>Para acessar todo o conteúdo exclusivo e continuar usando o bot, inscreva-se no nosso canal.</b>"
+  welcome_message: "<b> </b>"
+  register_info: |
+    🔥<b>Para tirar o máximo proveito deste bot, siga estas etapas:</b>
+
+    1. <b>Crie uma nova conta!</b>
+       [Se você já tiver uma conta, faça logout e registre uma nova]
+
+    2. <b>Use o código promocional</b> 👉🏻{promo}👈🏻 <b>ao criar a conta</b>.
+       [Isso é importante porque nosso IA só funciona com novas contas]
+
+    3. <b>Após o registro, você receberá uma notificação automática de sucesso.</b>
+
+    ❗️Se você não seguir estas etapas, o bot não conseguirá adicionar sua conta ao banco de dados.
+
+    🤝🏻 <b>Obrigado pela compreensão!</b>
+  deposit_info: |
+    <b>Parabéns pelo registro bem-sucedido!</b> 🥳
+
+    <b>🌐 Etapa 2</b> – Faça seu primeiro depósito.
+
+    ✦ Quanto maior o depósito, maior o seu <b>NÍVEL</b> no bot e mais sinais premium você receberá.
+
+    ✦ Após o depósito, você receberá automaticamente uma <b>notificação</b> do bot.
+  instruction_info: |
+    <b>🤖O bot é baseado na rede neural da OpenAI!
+    ⚜️Mais de 🎰10.000 jogos foram usados para treiná-lo.
+
+    Atualmente, os usuários ganham 15–25% ao dia com seu 💸 capital!</b>
+
+    O bot ainda está em fase de teste! Precisão: 92%!
+    Para obter o máximo, siga essas instruções:
+
+    🟢 1. <b>Cadastre-se na casa de apostas </b> <a href='{ref_url}'>1WIN</a>
+    [Se não abrir, use VPN (Suécia). Apps gratuitos: Vpnify, Planet VPN, Hotspot VPN, etc.]
+          ❗️<b>Sem registro e código promocional, os sinais não serão ativados</b>❗️
+
+    🟢 2. Deposite saldo na conta.
+    🟢 3. Acesse a seção de jogos da 1win e escolha um.
+    🟢 4. Defina 3 armadilhas. Isso é obrigatório!
+    🟢 5. Solicite um sinal ao bot e siga as instruções para apostar.
+    🟢 6. Se perder, dobre a aposta (x²) na próxima tentativa.
+  back: "🔙Voltar ao menu principal"
+  choose_lang: "🌍Escolher idioma"
+  make_deposit: "💸Fazer depósito"
+  success_deposit: "✅ Depósito recebido! Acesso aos sinais liberado."
+  enter_new_ref: "Envie um novo link"
+  ref_changed: "Link atualizado"
+
+br:
+  subscribe: "➕Inscreva-se"
+  check: "Continuar"
+  register: "📱Cadastro"
+  instruction: "📚Instruções"
+  get_signal: "⚜️OBTER SINAL⚜️"
+  register_action: "📱🔸 Cadastre-se agora"
+  make_deposit_btn: "💸 Fazer depósito"
+  welcome: "🇧🇷 <b>Para ter acesso completo ao conteúdo exclusivo e continuar usando o bot, inscreva-se no nosso canal.</b>"
+  welcome_message: "<b> </b>"
+  register_info: |
+    🔥<b>Para obter o máximo do bot, siga os seguintes passos:</b>
+
+    1. <b>Cadastre uma nova conta!</b>
+       [Se você já tem uma, desconecte-se e crie outra]
+
+    2. <b>Use o código promocional</b> 👉🏻{promo}👈🏻 <b>ao registrar a nova conta</b>.
+       [Necessário para que o bot funcione corretamente]
+
+    3. <b>Você receberá automaticamente um aviso de sucesso.</b>
+
+    ❗️Se não seguir, sua conta não será registrada no sistema.
+
+    🤝🏻 <b>Obrigado pela cooperação!</b>
+  deposit_info: |
+    <b>Parabéns pelo cadastro com sucesso!</b> 🥳
+
+    <b>🌐 Etapa 2</b> – Realize o primeiro depósito.
+
+    ✦ Quanto maior o depósito, maior o seu <b>NÍVEL</b> no bot.
+
+    ✦ Após o depósito, o bot irá te enviar uma <b>notificação</b> automática.
+  instruction_info: |
+    <b>🤖Este bot foi treinado com tecnologia OpenAI!
+    ⚜️Mais de 🎰10.000 jogos foram simulados.
+
+    Usuários têm retorno diário de 15–25% sobre seu 💸 capital.</b>
+
+    O bot ainda está em desenvolvimento! Precisão: 92%.
+    Siga os passos abaixo para obter os melhores resultados:
+
+    🟢 1. <b>Cadastre-se na 1WIN </b> <a href='{ref_url}'>1WIN</a>
+    [Caso não abra, use VPN (Suécia). Apps: Vpnify, Planet VPN, Hotspot VPN...]
+          ❗️<b>Sem registro e código, os sinais não funcionarão</b>❗️
+
+    🟢 2. Deposite em sua conta.
+    🟢 3. Acesse a seção de jogos da 1win e escolha um jogo.
+    🟢 4. Configure o número de armadilhas como três. Obrigatório!
+    🟢 5. Solicite sinal ao bot e aposte conforme instruções.
+    🟢 6. Se falhar, dobre o valor na próxima tentativa (x²).
+  back: "🔙Voltar ao menu principal"
+  choose_lang: "🌍Escolher idioma"
+  make_deposit: "💸Fazer depósito"
+  success_deposit: "✅ Depósito confirmado! Sinais liberados."
+  enter_new_ref: "Envie um novo link"
+  ref_changed: "Link alterado"
+
+tr:
+  subscribe: "➕Abone Ol"
+  check: "Devam Et"
+  register: "📱Kayıt Ol"
+  instruction: "📚Talimatlar"
+  get_signal: "⚜️SİNYAL AL⚜️"
+  register_action: "📱🔸 Şimdi Kayıt Ol"
+  make_deposit_btn: "💸 Para Yatır"
+  welcome: "🇹🇷 <b>Özel içeriğe tam erişim ve botu kullanmaya devam etmek için lütfen kanalımıza abone olun.</b>"
+  welcome_message: "<b> </b>"
+  register_info: |
+    🔥<b>Bu bottan en iyi şekilde yararlanmak için şu adımları takip edin:</b>
+
+    1. <b>Yeni bir hesap oluşturun!</b>
+       [Zaten hesabınız varsa çıkış yapıp yenisini açın]
+
+    2. <b>Kaydolurken promosyon kodunu kullanın</b> 👉🏻{promo}👈🏻.
+       [Yalnızca yeni hesaplar desteklenmektedir]
+
+    3. <b>Kayıttan sonra başarı bildirimi otomatik olarak gönderilecektir.</b>
+
+    ❗️Bu adımları atlayanlar sinyal alamaz!
+
+    🤝🏻 <b>Anlayışınız için teşekkür ederiz!</b>
+  deposit_info: |
+    <b>Kayıt başarılı, tebrikler!</b> 🥳
+
+    <b>🌐 Adım 2</b> – İlk para yatırma işlemini gerçekleştirin.
+
+    ✦ Yüksek para yatırma = daha yüksek <b>SEVİYE</b> ve daha kaliteli sinyaller.
+
+    ✦ Para yatırdıktan sonra bot size <b>bildirim</b> gönderecektir.
+  instruction_info: |
+    <b>🤖Bot, OpenAI sinir ağı teknolojisi ile eğitildi!
+    ⚜️10.000'den fazla 🎰 oyun simüle edildi.
+
+    Kullanıcılar günde %15-25 oranında 💸 kazanç sağlıyor!</b>
+
+    Hâlâ test aşamasında. Doğruluk: %92!
+    Karınızı maksimize etmek için bu talimatları izleyin:
+
+    🟢 1. <b>1WIN bahis sitesine kayıt olun </b> <a href='{ref_url}'>1WIN</a>
+    [Site açılmazsa VPN (İsveç) kullanın. Uygulamalar: Vpnify, Planet VPN, vb.]
+          ❗️<b>Kayıt ve promosyon kodu olmadan sinyaller açılmaz</b>❗️
+
+    🟢 2. Hesabınıza bakiye yükleyin.
+    🟢 3. Oyun bölümünden bir oyun seçin.
+    🟢 4. 3 tuzak ayarlayın. Çok önemli!
+    🟢 5. Bot’tan sinyal alın ve ona göre oynayın.
+    🟢 6. Kaybederseniz, bir sonraki için bahsinizi ikiye katlayın (x²).
+  back: "🔙Ana menüye dön"
+  choose_lang: "🌍Dil seçin"
+  make_deposit: "💸Para Yatır"
+  success_deposit: "✅ Para yatırıldı! Sinyaller aktif."
+  enter_new_ref: "Yeni bağlantı gönderin"
+  ref_changed: "Bağlantı güncellendi"
+
+ar:
+  subscribe: "➕اشترك"
+  check: "استمرار"
+  register: "📱تسجيل"
+  instruction: "📚تعليمات"
+  get_signal: "⚜️احصل على الإشارة⚜️"
+  register_action: "📱🔸 سجّل الآن"
+  make_deposit_btn: "💸 إيداع الأموال"
+  welcome: "🇸🇦 <b>للوصول الكامل إلى المحتوى الحصري ومتابعة استخدام البوت، يرجى الاشتراك في قناتنا.</b>"
+  welcome_message: "<b> </b>"
+  register_info: |
+    🔥<b>للحصول على أقصى استفادة من البوت، اتبع هذه الخطوات:</b>
+
+    1. <b>قم بإنشاء حساب جديد!</b>
+       [إذا كان لديك حساب مسبقاً، سجّل الخروج وأنشئ واحدًا جديدًا]
+
+    2. <b>استخدم رمز العرض الترويجي</b> 👉🏻{promo}👈🏻 <b>عند إنشاء الحساب</b>.
+       [هذا ضروري لأن البوت يعمل فقط مع الحسابات الجديدة]
+
+    3. <b>بعد التسجيل، ستتلقى إشعارًا تلقائيًا بالتسجيل الناجح.</b>
+
+    ❗️إذا لم تتبع هذه الخطوات، فلن يتمكن البوت من إضافة حسابك إلى قاعدة البيانات.
+
+    🤝🏻 <b>شكرًا لتفهمك!</b>
+  deposit_info: |
+    <b>تهانينا على التسجيل الناجح!</b> 🥳
+
+    <b>🌐 الخطوة 2</b> – قم بإجراء أول إيداع.
+
+    ✦ كلما كان الإيداع أعلى، زاد <b>المستوى</b> في البوت وزادت إشارات الربح.
+
+    ✦ بعد الإيداع، ستحصل تلقائيًا على <b>إشعار</b> من البوت.
+  instruction_info: |
+    <b>🤖البوت يعتمد على شبكة OpenAI العصبية!
+    ⚜️تم تدريب البوت على أكثر من 🎰10,000 لعبة.
+
+    يحقق المستخدمون أرباحًا يومية تتراوح بين 15-25% من رأس المال 💸!</b>
+
+    البوت لا يزال قيد التطوير. الدقة: 92%!
+    للحصول على أفضل النتائج، اتبع التعليمات:
+
+    🟢 1. <b>سجّل في موقع 1WIN </b> <a href='{ref_url}'>1WIN</a>
+    [إذا لم يفتح، استخدم VPN (السويد). تطبيقات مجانية مثل: Vpnify، Planet VPN، إلخ.]
+          ❗️<b>لن يتم تفعيل الإشارات بدون التسجيل ورمز العرض</b>❗️
+
+    🟢 2. قم بإيداع الرصيد.
+    🟢 3. انتقل إلى قسم الألعاب واختر لعبة.
+    🟢 4. عيّن 3 فخاخ. ضروري جداً!
+    🟢 5. اطلب إشارة من البوت وتابع المراهنة.
+    🟢 6. إذا خسرت، ضاعف الرهان (x²) في المحاولة التالية.
+  back: "🔙العودة إلى القائمة الرئيسية"
+  choose_lang: "🌍اختر اللغة"
+  make_deposit: "💸إيداع الأموال"
+  success_deposit: "✅ تم الإيداع! تم فتح الإشارات."
+  enter_new_ref: "أرسل رابطًا جديدًا"
+  ref_changed: "تم تغيير الرابط"
+
+uz:
+  subscribe: "➕Obuna bo‘ling"
+  check: "Davom etish"
+  register: "📱Ro'yxatdan o'tish"
+  instruction: "📚Ko'rsatmalar"
+  get_signal: "⚜️SIGNAL OLISH⚜️"
+  register_action: "📱🔸 Hozir ro'yxatdan o'ting"
+  make_deposit_btn: "💸 Depozit kiritish"
+  welcome: "🇺🇿 <b>Eksklyuziv kontentdan to‘liq foydalanish va botni davom ettirish uchun kanalimga obuna bo‘ling.</b>"
+  welcome_message: "<b> </b>"
+  register_info: |
+    🔥<b>Botdan maksimal foyda olish uchun quyidagi qadamlarni bajaring:</b>
+
+    1. <b>Yangi hisob yarating!</b>
+       [Agar sizda hisob bo‘lsa, chiqib keting va yangisini yarating]
+
+    2. <b>Ro'yxatdan o'tishda promo-kodni kiriting</b> 👉🏻{promo}👈🏻.
+       [Bot faqat yangi hisoblar bilan ishlaydi]
+
+    3. <b>Ro‘yxatdan o‘tgach, avtomatik tarzda muvaffaqiyatli ro‘yxatdan o‘tganingiz haqida bildirish olasiz.</b>
+
+    ❗️Aks holda, hisobingiz tizimga kiritilmaydi.
+
+    🤝🏻 <b>Rahmat!</b>
+  deposit_info: |
+    <b>Ro‘yxatdan muvaffaqiyatli o‘tdingiz!</b> 🥳
+
+    <b>🌐 2-qadam</b> – Birinchi depozitni kiriting.
+
+    ✦ Depozit qancha katta bo‘lsa, botdagi <b>LEVEL</b> shuncha yuqori bo‘ladi.
+
+    ✦ Depozitdan keyin bot sizga <b>bildirishnoma</b> yuboradi.
+  instruction_info: |
+    <b>🤖Bot OpenAI neyron tarmog‘ida tayyorlangan!
+    ⚜️10,000+ 🎰o‘yin asosida o‘rgatilgan.
+
+    Foydalanuvchilar har kuni o‘z 💸kapitalidan 15–25% daromad qilishmoqda!</b>
+
+    Bot hali test bosqichida. Aniqlik: 92%.
+    Maksimal foyda olish uchun quyidagilarga amal qiling:
+
+    🟢 1. <b>1WIN saytida ro‘yxatdan o‘ting </b> <a href='{ref_url}'>1WIN</a>
+    [Agar ochilmasa, VPN (Shvetsiya) dan foydalaning. Ilovalar: Vpnify, Planet VPN, Hotspot VPN va boshqalar.]
+          ❗️<b>Ro‘yxatdan o‘tmasdan va promo-kodsiz signal faollashtirilmaydi</b>❗️
+
+    🟢 2. Hisobingizni to‘ldiring.
+    🟢 3. O‘yinlar bo‘limiga o‘ting va o‘yin tanlang.
+    🟢 4. 3 ta tuzoq o‘rnating. Juda muhim!
+    🟢 5. Botdan signal so‘rang va ko‘rsatmalarga amal qiling.
+    🟢 6. Yutqazsangiz, keyingi bosqichda stavkani ikki barobar oshiring (x²).
+  back: "🔙Asosiy menyuga qaytish"
+  choose_lang: "🌍Tilni tanlang"
+  make_deposit: "💸Depozit kiritish"
+  success_deposit: "✅ Depozit qabul qilindi! Signallar ochiq."
+  enter_new_ref: "Yangi havola yuboring"
+  ref_changed: "Havola yangilandi"
